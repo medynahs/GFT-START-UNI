@@ -1,4 +1,11 @@
 public class Vagao extends Transporte {
+    
+    public Vagao{
+        private souble carga;
+        
+        
+    }
+
 
     public int calculaFrete(int distancia){
         this.distancia = distancia;
