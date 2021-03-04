@@ -1,7 +1,7 @@
 public class Vagao extends Transporte {
     
     public Vagao{
-        private souble carga;
+        private double carga;
         
         
     }
