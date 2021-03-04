@@ -3,6 +3,7 @@ public class Caminhao extends Transporte{
     private double peso;
 
     public Caminhao(){
+        private double valor;
 
     }
 
